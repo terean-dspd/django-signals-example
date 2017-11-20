@@ -1,2 +1,2 @@
 # django-signals-example
-Just a simple Django project witch hows how to use Django signals
+Just a simple Django project wich shows how to use Django signals
