@@ -6,8 +6,10 @@ class TestModel(models.Model):
         verbose_name="Insert Text Here"
         )
     fieldsignal = models.CharField(
+        null = True,
+        blank = True,
         max_length=300,
-        verbose_name="Do not touck it"
+        verbose_name="Do not touch it"
         )
     def __str__(self):
         return self.fieldself
