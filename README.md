@@ -4,4 +4,3 @@ step-by-step guide is located at [https://pythonblog.tk](https://http://pythonbl
 
 You can pull this project. Run it login to admin interface using pythonblog.tk as login and password and then you can see signals in action creating new **Test models** objects
 
-#The Signal Part itself isn't ready yet#
